@@ -1,7 +1,33 @@
 ## Hi there, I'm Emre! 👋
 
 # 💫 About Me:
-Finance & Product Data Analyst<br>Forecasting • KPI Dashboards • SQL • Python • Tableau<br>ex-Kleinanzeigen | Berlin, Germany<br>Building models & dashboards that turn data into decisions.
+Finance & Product Data Analyst based in Berlin
+
+I build data products that support financial forecasting, KPI reporting, and data-driven strategic decisions.
+My work focuses on:
+
+🔹 Revenue Forecasting
+
+🔹 KPI Dashboards (Tableau/Sheets)
+
+🔹 Time Series & Predictive Modeling
+
+🔹 SQL & Python Data Pipelines
+
+🔹 Product & Finance Analytics
+
+
+Python · SQL · Tableau · Excel · SAP · Salesforce · GCP · AWS
+
+📌 Featured Projects
+
+Revenue Forecasting Model
+
+Object Detection Pipeline
+
+KPI Dashboard (Tableau)
+
+Churn Analysis + Feature Engineering
 
 
 ## 🌐 Socials:
