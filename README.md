@@ -1,34 +1,57 @@
-## Hi there, I'm Emre! 👋
+# Hi, I'm Emre Özyürek 👋  
+### Data & Product Analytics | Pricing Strategy | Revenue Optimization | BI Dashboards  
+Berlin, Germany 🇩🇪
 
-# 💫 About Me:
-Finance & Product Data Analyst based in Berlin
+I analyze how products make money — and how they *could* make more.
 
-I build data products that support financial forecasting, KPI reporting, and data-driven strategic decisions.
-My work focuses on:
+My work sits at the intersection of **data**, **product**, and **commercial strategy**, helping companies turn usage, pricing, and marketplace signals into measurable revenue outcomes.
 
-🔹 Revenue Forecasting
+I specialize in:
+- **Monetization & Pricing (CPC → CPO, subscription design, elasticity modeling)**
+- **Revenue Forecasting (ARIMA / SARIMAX, KPI baselines, cohort signals)**
+- **Marketplace & Performance Marketing Analytics**
+- **BI Dashboards for Sales & Growth Teams (Tableau, Looker, Power BI)**
+- **Strategy Case Work (market entry, unit economics, demand modeling)**
 
-🔹 KPI Dashboards (Tableau/Sheets)
+---
 
-🔹 Time Series & Predictive Modeling
+## 🔥 Highlight Projects  
+*(Pinned on my profile — business-driven + technical work combined)*
 
-🔹 SQL & Python Data Pipelines
+### 🚀 CPC → CPO Monetization Impact  
+**`cpc-to-cpo-impact-analysis-confidential`**  
+Evaluated the financial effect of switching a partner from CPC to CPO — analyzing uplift, cannibalization, RPC/CR trends, category effects, and total revenue impact.
 
-🔹 Product & Finance Analytics
+### 📈 Revenue Forecasting for a Marketplace  
+**`kleinanzeigen-revenue-forecasting`**  
+Full KPI analysis (ARPA, renewal, churn) + ARIMA/SARIMAX-based revenue forecast for 2024.
 
+### 📊 Sales Enablement Dashboard  
+**`sales-enablement-dashboard-lovehoney`**  
+B2B sales performance dashboards with margin, pipeline, win-rate, account health, and coaching insights.
 
-Python · SQL · Tableau · Excel · SAP · Salesforce · GCP · AWS
+### ⚡ EV Charging Pricing Strategy  
+**`ev-charging-pricing-strategy-dcs`**  
+Subscription design, elasticity logic, revenue modeling, and loyalty uplift simulation for an EV charging MSP.
 
-📌 Featured Projects
+---
 
-Revenue Forecasting Model
+## 🧰 Tech & Tools  
+**Languages:** Python, SQL, DAX, R  
+**Analytics:** Pandas, NumPy, Statsmodels, Scikit-learn  
+**Forecasting:** ARIMA, SARIMAX, ETS, Prophet  
+**Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
+**Data:** Snowflake, BigQuery, PostgreSQL  
+**Domains:** Pricing, Monetization, Marketplaces, Sales Ops, Mobility, EV, Growth, Revenue Strategy  
 
-Object Detection Pipeline
+---
 
-KPI Dashboard (Tableau)
+## 📬 Contact  
+📧 **emreozyurekofficial@gmail.com**  
+🔗 **LinkedIn:** linkedin.com/in/emreozyurekofficial  
+📍 Based in Berlin — open to roles across EU & UK  
 
-Churn Analysis + Feature Engineering
-
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emreozy97) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/emreozyurekofficial/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emreozyurekofficial@gmail.com) 
