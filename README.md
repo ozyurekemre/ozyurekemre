@@ -35,7 +35,7 @@ Subscription design, elasticity logic, revenue modeling, and loyalty uplift simu
 ---
 
 ## 🧰 Tech & Tools  
-**Languages:** Python, SQL, DAX, R  
+**Languages:** Python, SQL
 **Analytics:** Pandas, NumPy, Statsmodels, Scikit-learn  
 **Forecasting:** ARIMA, SARIMAX, ETS, Prophet  
 **Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
