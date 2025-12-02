@@ -12,9 +12,7 @@ I specialize in:
 - **Marketplace & Performance Marketing Analytics**
 - **BI Dashboards for Sales & Growth Teams (Tableau, Looker, Power BI)**
 - **Strategy Case Work (market entry, unit economics, demand modeling)**
-
 ---
-
 ## 🔥 Highlight Projects  
 *(Pinned on my profile — business-driven + technical work combined)*
 
